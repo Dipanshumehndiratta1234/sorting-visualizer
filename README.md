@@ -25,8 +25,7 @@ To run this project, the following tools and libraries are required:
 - **SDL2 Library**: The Simple DirectMedia Layer (SDL2) library is used for rendering the graphical output of the sorting process.
 
 ## How to Run
-1. **Clone the Repository**:  
-   git clone https://github.com/HariSehgal/Sorting_Visualizer.git
+
 2. **Install SDL2**:  
    Download and set up the SDL2 library for your system. Ensure that the SDL2 headers and binaries are linked to the project.
 3. **Compile the Project**:  
@@ -53,8 +52,6 @@ To run this project, the following tools and libraries are required:
 - Add option to compare different sorting algorithms simultaneously.
 - Implement additional sorting algorithms like Radix Sort, Shell Sort, etc.
 
-## Acknowledgments
-This project was developed as part of a summer training program in **Data Structures and Algorithms** using 
-C++ at **Coding Blocks**. Special thanks to our mentor, **Mayank Jha**, for his guidance and support throughout the project.
+
 
 This **README** provides a comprehensive overview of the project, its setup, usage instructions, and future improvements. Let me know if you need any further customization!
