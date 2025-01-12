@@ -26,15 +26,15 @@ To run this project, the following tools and libraries are required:
 
 ## How to Run
 
-2. **Install SDL2**:  
+1. **Install SDL2**:  
    Download and set up the SDL2 library for your system. Ensure that the SDL2 headers and binaries are linked to the project.
-3. **Compile the Project**:  
+2. **Compile the Project**:  
    Use the MinGW compiler (or equivalent) to compile the C++ code. Open a terminal and run:
    g++ -o sorting_visualizer main.cpp -lmingw32 -lSDL2main -lSDL2
-4. **Run the Executable**:  
+3. **Run the Executable**:  
    Once compiled, run the generated executable:
    ./sorting_visualizer
-5. **Use the Interface**:  
+4. **Use the Interface**:  
    Select a sorting algorithm from the terminal UI and observe the sorting process visualized in real-time.
 
 ## Control Handling
